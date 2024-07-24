@@ -107,9 +107,9 @@
 </p>
 
 <h3 align="center">GitHub Stats</h3>
-
+<P align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragyadav622003&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages"/> </P>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragyadav622003&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+ 
   <img src="https://github-readme-stats.vercel.app/api?username=anuragyadav622003&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragyadav622003&theme=dark" alt="GitHub Streak" />
 </p>
