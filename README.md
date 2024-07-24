@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="center">About Me</h3>
-<p align="center">
+<p align="">
   🔭 I’m currently working on <a href="https://github.com/anuragyadav/quickbite" target="_blank"><strong>QuickBite</strong></a><br>
   👯 I’m looking to collaborate on <a href="https://github.com/anuragyadav/open-source-initiative" target="_blank"><strong>Open Source Initiatives</strong></a><br>
   👨‍💻 All of my projects are available at <a href="https://anuragyadavportfolio.netlify.app/" target="_blank"><strong>My Portfolio</strong></a><br>
