@@ -1,100 +1,132 @@
-<h1 align="center">Hi, I'm Shashvat Tiwari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Hi"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=700&height=100&lines=Final+Year+Computer+Science+Student;Chhatrapati+Shahuji+Maharaj+University+Kanpur;Competitive+Programmer;Web+Developer;Always+learning+new+things" alt="Typing Text">
-  </a>
+<h1 align="center">Hi 👋, I'm Anurag Yadav</h1>
+<h3 align="center">Passionate MERN Stack & React Native Developer</h3>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=anuragyadav622003&label=Profile%20views&color=0e75b6&style=flat" alt="anuragyadav622003" />
 </p>
 
-## 😄 About Me
-<p align="center">
-  🎓 Final year Bachelor of Technology in Computer Science at Chhatrapati Shahu Ji Maharaj University, Kanpur.<br>
-  🌱 Currently learning React and related technologies.<br>
-  🔭 Working on various personal projects and expanding my knowledge.<br>
-  💬 Feel free to reach out with any questions or feedback!
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shashvat-tiwari-88436723b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-## 👨‍💻 My Projects
-<ul>
-  <li><a href="https://github.com/shashwatiwari/Random-Video-Chat">Random Video Chat Web</a> - A platform using <strong>React JS</strong> and <strong>WebRTC</strong> for spontaneous video conversations.</li>
-  <li><a href="https://github.com/shashwatiwari/Hotel-Booking">Online Hotel Booking Web</a> - A full-stack application with <strong>NodeJS</strong>, <strong>React JS</strong>, and <strong>Tailwind CSS</strong> for a seamless booking experience.</li>
-  <li><a href="https://github.com/shashwatiwari/Hostel_Management_System">Hostel Management System</a> - A system built with <strong>NodeJS</strong>, <strong>React JS</strong>, and <strong>MySQL</strong> to streamline hostel operations.</li>
-</ul>
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width="40" alt="Competitive Programming"> </picture> Competitive Programming Profiles
-<p align="center">
-  <a href="https://codeforces.com/profile/shashwatiwari">
-    <img alt="Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/shash11/">
-    <img alt="Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/shash11">
-    <img alt="Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/shash11">
-    <img alt="CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/shash11">
-    <img alt="GeeksforGeeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white" />
-  </a>
-</p>
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px" alt="Connect with me"> </picture> Connect with Me
-<p align="center">
-  <a href="mailto:shashwat.monphy@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/shashwatiwari">
-    <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shashvat-tiwari-88436723b/">
-    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-## 💼 Technical Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,py" alt="Programming Languages" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" alt="Web Technologies" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql,sqlite,jquery" alt="Backend Technologies" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,heroku,vercel,atom,vscode,visualstudio,androidstudio" alt="Tools" />
-  </a>
-</p>
-
----
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px" alt="Statistics"> </picture> GitHub Stats
-<p align="center">
-  <table align="center">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=shashwatiwari&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
-        <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatiwari&theme=dark&hide_border=false" alt="Streak Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shashwatiwari&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</p>
-
-<summary> <h3 align="center"> :trophy: GitHub Profile Trophies </h3></summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shashwatiwari&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=anuragyadav622003" alt="anuragyadav622003" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/anuragy7407529" target="blank">
+    <img src="https://img.shields.io/twitter/follow/anuragy7407529?logo=twitter&style=for-the-badge" alt="anuragy7407529" />
+  </a>
+</p>
+
+- 🔭 I’m currently working on [QuickBite](https://github.com/anuragyadav/quickbite)
+- 👯 I’m looking to collaborate on [Open Source Initiatives](https://github.com/anuragyadav/open-source-initiative)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://anuragyadavportfolio.netlify.app/)
+- 💬 Ask me about **C++, React, Express, Node.js, MongoDB, React Native**
+- 📫 How to reach me: **anuragyadav622003@gmail.com**
+- 📄 Know about my experiences: [Resume](https://github.com/Anuragyadav622003/Anuragyadav622003/blob/2d949ace23ef6872ac9431ea2bb4110425cdc399/AnuragYadav_Resume.pdf)
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://twitter.com/anuragy7407529" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuragy7407529" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/anurag-yadav-3704b1239" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-yadav-3704b1239" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/anuragyadav622" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anuragyadav622" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/anuragyadav622003" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anuragyadav622003" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/anuragyadav622003/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anuragyadav622003/" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/anuragyadf2iy" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anuragyadf2iy" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="center">GitHub Stats:</h3>
+<p align="center">
+  <a href="https://github.com/anuragyadav622003">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragyadav622003&show_icons=true&locale=en" alt="anuragyadav622003" />
+  </a>
+  <a href="https://github.com/anuragyadav622003">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragyadav622003&" alt="anuragyadav622003" />
+  </a>
+</p>
+
+<h3 align="center">Top Languages:</h3>
+<p align="center">
+  <a href="https://github.com/anuragyadav622003">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragyadav622003&layout=compact" alt="anuragyadav622003" />
+  </a>
+</p>
+
+<h3 align="center">Profile Visits:</h3>
+<p align="center">
+  <a href="https://github.com/anuragyadav622003">
+    <img align="center" src="https://komarev.com/ghpvc/?username=anuragyadav622003&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
