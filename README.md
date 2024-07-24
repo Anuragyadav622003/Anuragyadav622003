@@ -1,36 +1,32 @@
-![logo](https://github.com/Anuragyadav622003/Anuragyadav622003/blob/main/thumb.jpg)
+![Banner](https://github.com/Anuragyadav622003/Anuragyadav622003/blob/main/thumb.jpg)
+
 <h1 align="center">Hi 👋, I'm Anurag Yadav</h1>
 <h3 align="center">Passionate MERN Stack & React Native Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anuragyadav622003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anuragyadav622003" alt="GitHub Profile Trophy" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://twitter.com/anuragy7407529" target="_blank">
     <img src="https://img.shields.io/twitter/follow/anuragy7407529?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
 
-<h3 align="center">About Me:</h3>
 <p align="center">
-  <ul>
-    <li>🔭 I’m currently working on <a href="https://github.com/anuragyadav/quickbite" target="_blank">QuickBite</a></li>
-    <li>👯 I’m looking to collaborate on <a href="https://github.com/anuragyadav/open-source-initiative" target="_blank">Open Source Initiatives</a></li>
-    <li>👨‍💻 All of my projects are available at <a href="https://anuragyadavportfolio.netlify.app/" target="_blank">My Portfolio</a></li>
-    <li>💬 Ask me about <strong>C++, React, Express, Node.js, MongoDB, React Native</strong></li>
-    <li>📫 How to reach me: <strong><a href="mailto:anuragyadav622003@gmail.com">anuragyadav622003@gmail.com</a></strong></li>
-    <li>📄 Know about my experiences: <a href="https://github.com/Anuragyadav622003/Anuragyadav622003/blob/2d949ace23ef6872ac9431ea2bb4110425cdc399/AnuragYadav_Resume.pdf" target="_blank">Resume</a></li>
-  </ul>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=anuragyadav622003&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
+  </a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">About Me</h3>
+<p align="center">
+  🔭 I’m currently working on <a href="https://github.com/anuragyadav/quickbite" target="_blank"><strong>QuickBite</strong></a><br>
+  👯 I’m looking to collaborate on <a href="https://github.com/anuragyadav/open-source-initiative" target="_blank"><strong>Open Source Initiatives</strong></a><br>
+  👨‍💻 All of my projects are available at <a href="https://anuragyadavportfolio.netlify.app/" target="_blank"><strong>My Portfolio</strong></a><br>
+  💬 Ask me about <strong>C++, React, Express, Node.js, MongoDB, React Native</strong><br>
+  📫 How to reach me: <strong><a href="mailto:anuragyadav622003@gmail.com">anuragyadav622003@gmail.com</a></strong><br>
+  📄 Know about my experiences: <a href="https://github.com/Anuragyadav622003/Anuragyadav622003/blob/2d949ace23ef6872ac9431ea2bb4110425cdc399/AnuragYadav_Resume.pdf" target="_blank"><strong>Resume</strong></a>
+</p>
+
+<h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="https://twitter.com/anuragy7407529" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="30" />
@@ -52,7 +48,7 @@
   </a>
 </p>
 
-<h3 align="center" >Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
@@ -108,18 +104,18 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+</p>
+
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragyadav622003&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragyadav622003&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragyadav622003&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<h3 align="center">Recent Activity</h3>
+<p align="center">
+  <a href="https://github.com/anuragyadav622003">
+    <img src="https://activity-graph.herokuapp.com/graph?username=anuragyadav622003&bg_color=0d1117&color=ffffff&line=ffffff&point=00ff00&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </a>
-</p>
-
-<h3 align="center">My GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragyadav622003&show_icons=true&theme=radical" alt="Anurag's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragyadav622003&theme=radical" alt="GitHub Streak" />
-</p>
-
-<h3 align="center">Contribution Graph:</h3>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=anuragyadav622003&theme=radical" alt="Contribution Graph" />
 </p>
