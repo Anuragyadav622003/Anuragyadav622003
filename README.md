@@ -1,3 +1,4 @@
+![logo](https://github.com/Ar273404/Arun-Yadav/blob/main/programming-background-with-person-working-with-codes-computer.jpg)
 <h1 align="center">Hi 👋, I'm Anurag Yadav</h1>
 <h3 align="center">Passionate MERN Stack & React Native Developer</h3>
 
