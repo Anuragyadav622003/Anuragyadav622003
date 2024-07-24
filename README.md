@@ -1,17 +1,19 @@
-<!-- Header Section with Animation -->
-<h1 align="center">
-  <span id="dynamic-name">Hi 👋, I'm Anurag Yadav</span>
+<!-- Header Section with Stylish Text Color -->
+<h1 align="center" style="color:#ff6347;">
+  Hi 👋, I'm Anurag Yadav
 </h1>
-<h3 align="center">Passionate Software Developer | MERN Stack & React Native Enthusiast</h3>
+<h3 align="center" style="color:#4682b4;">
+  Passionate Software Developer | MERN Stack & React Native Enthusiast
+</h3>
 
 <!-- Profile Image Section -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Anurag Yadav" width="150" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Anurag Yadav" width="150" style="border-radius:50%; border: 4px solid #ff6347;" />
 </p>
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anuragyadav622003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=anuragyadav622003&label=Profile%20views&color=ff6347&style=flat" alt="Profile views" />
 </p>
 
 <!-- GitHub Profile Trophy -->
@@ -21,17 +23,17 @@
   </a>
 </p>
 
-<!-- Social Media Links -->
+<!-- Social Media Links with Stylish Badges -->
 <p align="center">
   <a href="https://twitter.com/anuragy7407529" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/anuragy7407529?logo=twitter&style=for-the-badge" alt="Twitter" />
+    <img src="https://img.shields.io/twitter/follow/anuragy7407529?logo=twitter&style=for-the-badge&color=1da1f2" alt="Twitter" />
   </a>
   <a href="https://linkedin.com/in/anurag-yadav-3704b1239" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge&color=0077b5" alt="LinkedIn" />
   </a>
 </p>
 
-<!-- Work Section -->
+<!-- Work Section with Colorful Headers -->
 ## 🔭 I’m currently working on:
 - [Food Delivery App](https://github.com/anuragyadav/quickbite)
 
@@ -59,7 +61,7 @@
 ## 📄 Know about my experiences:
 - [Resume](https://github.com/Anuragyadav622003/Anuragyadav622003/blob/2d949ace23ef6872ac9431ea2bb4110425cdc399/AnuragYadav_Resume.pdf)
 
-<!-- Connect with Me Section -->
+<!-- Connect with Me Section with Colorful Icons -->
 ## Connect with me:
 <p align="center">
   <a href="https://twitter.com/anuragy7407529" target="_blank">
@@ -82,7 +84,7 @@
   </a>
 </p>
 
-<!-- Skills Section -->
+<!-- Skills Section with Colorful Icons -->
 ## Skills:
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -161,18 +163,3 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=anuragyadav622003&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </p>
-
-<!-- Dynamic Name Animation -->
-<script>
-  const nameElement = document.getElementById('dynamic-name');
-  const names = ['Anurag Yadav', 'a Software Developer', 'a MERN Stack Enthusiast', 'a React Native Developer'];
-  let index = 0;
-
-  function animateName() {
-    nameElement.innerHTML = `Hi 👋, I'm ${names[index]}`;
-    index = (index + 1) % names.length;
-    setTimeout(animateName, 2000);
-  }
-
-  animateName();
-</script>
