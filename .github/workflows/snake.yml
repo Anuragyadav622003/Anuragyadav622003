@@ -2,8 +2,8 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs every day at 00:00 UTC
-  workflow_dispatch:     # Allows manual run
+    - cron: "0 0 * * *"   # Runs daily at 00:00 UTC
+  workflow_dispatch:     # Manual run
 
 jobs:
   generate:
@@ -13,18 +13,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate snake animation
+      - name: Generate contribution snake (light & dark)
         uses: Platane/snk@v3
         with:
           github_user_name: anuragyadav622003
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            output/github-contribution-grid-snake-light.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
