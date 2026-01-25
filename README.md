@@ -27,7 +27,7 @@ I’m a **Backend-focused Software Engineer** experienced in building **scalable
 - 🎯 Actively seeking **Backend / Full-Stack Engineer roles**
 
 📄 **Resume:**  
-👉 https://github.com/Anuragyadav622003/Anuragyadav622003/blob/main/AnuragYadav_Resume.pdf
+👉 [https://github.com/Anuragyadav622003/Anuragyadav622003/blob/main/AnuragYadav_Resume.pdf](https://drive.google.com/file/d/1CHyKAO2krlX8djvZVuUUeZD1URYZQjhB/view?usp=sharing)
 
 ---
 
