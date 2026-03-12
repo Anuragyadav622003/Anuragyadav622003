@@ -192,19 +192,5 @@ Docker, Redis, Git, GitHub, Postman, Jira
   <img src="https://raw.githubusercontent.com/Anuragyadav622003/Anuragyadav622003/output/github-contribution-grid-snake.svg" />
 </p>
 
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/Anuragyadav622003/Anuragyadav622003/output/github-contribution-grid-snake-dark.svg" 
-  />
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/Anuragyadav622003/Anuragyadav622003/output/github-contribution-grid-snake.svg" 
-  />
-  <img 
-    alt="github contribution grid snake animation" 
-    src="https://raw.githubusercontent.com/Anuragyadav622003/Anuragyadav622003/output/github-contribution-grid-snake.svg" 
-  />
-</picture>
-
+![GitHub Snake](https://raw.githubusercontent.com/Anuragyadav622003/Anuragyadav622003/output/github-contribution-grid-snake.svg)
 <p align="center">Made with ❤️ by Anurag Yadav</p>
