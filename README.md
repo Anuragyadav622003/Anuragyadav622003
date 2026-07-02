@@ -4,81 +4,221 @@
 
 # 👋 Hey, I'm Anurag Yadav
 
-### 🚀 Backend Engineer | MERN Stack | React Native Developer
+### 🚀 SDE1 | Full-Stack Engineer | NestJS & React Specialist
 
-**Building scalable microservices, robust APIs, and full-stack applications**
+**Building scalable microservices, AI-powered platforms, and production-grade applications**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Anuragyadav622003&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Anuragyadav622003)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/anurag-yadav-3704b1239)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:anuragyadav622003@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white&style=flat)](https://anurag-yadav-portfolio.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/u/anuragyadav06-02-2003/)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🎯 Professional Summary
 
-I'm a **backend-focused software engineer** passionate about designing **scalable architectures**, building **high-performance APIs**, and mentoring developers. With **1+ years of hands-on experience**, I specialize in building production-ready applications using modern tech stacks.
+Full-Stack **SDE1** with production experience building **microservices** and **customer-facing AI products**. Specialized in designing scalable **NestJS APIs**, crafting responsive **React/Next.js** frontends, and architecting **distributed systems**. Proven expertise in end-to-end feature ownership and startup environments.
 
-- 🎓 **B.Tech CSE** — Graduating 2025
-- 💼 **1+ years** building backend systems and microservices
-- 🔥 **Expert** in Node.js, NestJS, Express.js
-- 🗄️ **Database Master** — PostgreSQL, MongoDB
-- 🧠 **DSA Champion** — 500+ problems solved (C++)
-- 🎯 **Actively seeking** Backend / Full-Stack roles
-- 📚 **Continuous learner** — Microservices, Redis, Docker, System Design
+**Current Role:** SDE1 at Mozark (Apr 2026 - Present)
 
 ---
 
-## 💻 Tech Stack
+## 💼 Work Experience
+
+### 🚀 **SDE1 | Mozark**
+**Apr 2026 — Jun 2026 | Gurgaon, Haryana**
+
+Building **Test Studio** — AI-powered test automation platform for mobile & web
+
+**Key Achievements:**
+- 🏗️ **Full-Stack Architecture** — Designed microservices with **Next.js**, **React**, **NestJS**, **Prisma**, and Python AI services
+- 🔌 **REST API Development** — Built NestJS APIs for test modules, cases, project storage, and **VCS sync integration**
+- 💾 **Data Management** — Integrated **MinIO** object storage with **JWT-based multi-tenant access control**
+- 🎨 **UI/UX Engineering** — Implemented three-pane workspace (authoring, preview, execution) with **TypeScript**, **Zustand**, **Tailwind CSS**
+- 🤖 **AI Integration** — Connected **CopilotKit** and AI scripting agents for natural-language test generation
+- 🔧 **Cross-Platform Solutions** — Resolved device overlays, coordinate scaling, workspace sync issues for iOS/Android workflows
+
+**Tech Stack:** Next.js | React | NestJS | Prisma | PostgreSQL | MinIO | TypeScript | Tailwind CSS | Python
+
+---
+
+### 💡 **Software Engineer | SoftxAI Technology Pvt. Ltd.**
+**May 2025 — Oct 2025 | Hyderabad, India**
+
+**Backend & Optimization Specialist**
+
+**Key Achievements:**
+- 🔨 **API Development** — Built scalable **NestJS/Node.js/TypeScript** APIs with **PostgreSQL** microservices
+- ⚡ **Performance Optimization** — Migrated legacy Python modules to NestJS, achieving **40% faster API response times**
+- 📊 **Batch Processing** — Designed cron-based processing for 300K+ records, completing runs in 10-30 seconds
+- ✅ **Quality Assurance** — Maintained **Jest** unit & integration tests with **85%+ code coverage**
+
+**Tech Stack:** NestJS | Node.js | TypeScript | PostgreSQL | Microservices | Jest | Cron Jobs
+
+---
+
+### 📱 **Software Developer Intern | RegisterKaro**
+**Feb 2025 — May 2025 | Gurgaon, Haryana**
+
+**Frontend & Full-Stack Development**
+
+**Key Achievements:**
+- 🎯 **High-Performance UI** — Built responsive **Next.js/TypeScript/Tailwind CSS** interfaces achieving **80%+ Lighthouse** scores
+- 🔍 **SEO Excellence** — Optimized for **95%+ SEO** performance
+- 🔄 **Migration & Optimization** — Migrated **Python** services to **Node.js/Express/MongoDB**, optimized database queries
+
+**Tech Stack:** Next.js | TypeScript | Tailwind CSS | Express.js | MongoDB
+
+---
+
+## 🚀 Featured Projects
+
+### 1. 🧪 **Test Studio – AI-Powered Test Automation Platform**
+**Current Project at Mozark**
+
+**Tech Stack:** Next.js | React | NestJS | Prisma | PostgreSQL | MinIO | Python | AI/ML
+
+**Features:**
+- 🤖 Natural-language test generation with AI agents
+- 🎯 Three-pane workspace for test authoring and execution
+- 📱 iOS & Android device automation
+- 🔌 VCS (GitHub/GitLab) integration
+- 💾 Multi-tenant architecture with secure access control
+- 🖼️ Visual regression testing
+- ⚡ Real-time test execution & debugging
+
+**Highlights:**
+- Microservices architecture with independent scaling
+- Real-time workspace sync across devices
+- Cross-platform device overlay management
+- Integration with AI scripting engines
+
+---
+
+### 2. 🔐 **Centralized Auth & Reminder Microservices**
+**Production-Ready Microservices System**
+
+**Tech Stack:** NestJS | Prisma | PostgreSQL | MongoDB | Redis | Docker | TCP
+
+**Features:**
+- 🔑 **JWT-based centralized authentication**
+- ⏰ **Reminder service with cron jobs**
+- 📡 **TCP inter-service communication**
+- 🐳 **Fully dockerized architecture**
+- 🔄 **Redis caching & session management**
+- 🏗️ **API Gateway pattern**
+
+**Highlights:**
+- Loosely coupled microservices design
+- Secure token refresh mechanism
+- Real-time reminder delivery
+- Scalable database architecture
+
+🔗 [**View Repository**](https://github.com/Anuragyadav622003/centralized-auth-reminder-microservices)
+
+---
+
+### 3. 🍔 **QuickBite – Food Delivery App**
+**Full-Stack MERN Application**
+
+**Tech Stack:** MongoDB | Express | React | Node.js
+
+**Features:**
+- 🔐 Secure authentication & authorization
+- 🛒 Advanced cart & order management
+- 📍 Location-based restaurant discovery
+- 💳 Payment integration ready
+
+🔗 [**View Repository**](https://github.com/anuragyadav/quickbite)
+
+---
+
+### 4. 🏋️ **FitFolio – Health & Fitness Tracker**
+**Mobile-First Fitness Application**
+
+**Tech Stack:** React Native | Expo | Firebase
+
+**Features:**
+- 📈 Activity & goal tracking
+- 🔔 Push notifications
+- 👤 Personalized profiles
+- 📊 Progress analytics
+
+🔗 [**View Repository**](https://github.com/Anuragyadav622003/FitFolio-Health-Fitness-Tracker-app-android)
+
+---
+
+## 💻 Technical Skills
 
 <details open>
-<summary><b>🔧 Languages & Core</b></summary>
+<summary><b>🔧 Backend & API Development</b></summary>
 
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | `JavaScript` `TypeScript` `C++` `SQL` |
-| **Runtime & Servers** | `Node.js` `Express.js` `NestJS` |
-| **Authentication** | `JWT` `OAuth 2.0` `Refresh Tokens` `bcrypt` |
-| **ORMs & Query Builders** | `Prisma` `TypeORM` `Sequelize` |
-| **Design Patterns** | `Clean Architecture` `MVC` `Microservices` |
+| Category | Expertise |
+|----------|-----------|
+| **Frameworks** | `NestJS` `Express.js` `Node.js` |
+| **APIs** | `REST APIs` `Microservices` `TCP Communication` |
+| **ORMs** | `Prisma ORM` `TypeORM` |
+| **Architecture** | `System Design` `API Gateway` `Distributed Systems` |
+| **Performance** | `Query Optimization` `Caching Strategies` `Batch Processing` |
 
 </details>
 
 <details open>
-<summary><b>🎨 Frontend Stack</b></summary>
+<summary><b>🎨 Frontend Development</b></summary>
 
-| Category | Technologies |
-|----------|--------------|
-| **Web Frameworks** | `React.js` `Next.js` |
-| **Mobile Development** | `React Native` `Expo` |
-| **Styling** | `Tailwind CSS` `CSS3` `Material-UI` |
+| Category | Expertise |
+|----------|-----------|
+| **Frameworks** | `React.js` `Next.js` |
+| **State Management** | `Zustand` `Redux Toolkit` |
+| **Styling** | `Tailwind CSS` `CSS3` |
+| **Performance** | `Lighthouse 80%+` `SEO 95%+` |
 
 </details>
 
 <details open>
 <summary><b>🗄️ Databases & Caching</b></summary>
 
-| Category | Technologies |
-|----------|--------------|
-| **Relational** | `PostgreSQL` `MySQL` |
+| Category | Expertise |
+|----------|-----------|
+| **Relational** | `PostgreSQL` `MySQL` `SQLite` |
 | **NoSQL** | `MongoDB` |
-| **Caching & Queues** | `Redis` `Bull Queue` |
+| **Caching** | `Redis` `Session Management` |
+| **Storage** | `MinIO` `Object Storage` |
 
 </details>
 
 <details open>
 <summary><b>🛠️ DevOps & Tools</b></summary>
 
-| Category | Technologies |
-|----------|--------------|
+| Category | Expertise |
+|----------|-----------|
 | **Containerization** | `Docker` `Docker Compose` |
-| **VCS & CI/CD** | `Git` `GitHub` `GitHub Actions` |
-| **API Testing** | `Postman` `Insomnia` |
-| **Project Management** | `Jira` `Trello` |
+| **VCS & CI/CD** | `Git` `GitHub` |
+| **Testing** | `Jest` `Unit Tests` `Integration Tests` |
+| **Project Tools** | `Postman` `Jira` `Appium` |
 
 </details>
+
+<details open>
+<summary><b>📊 Programming & DSA</b></summary>
+
+| Category | Expertise |
+|----------|-----------|
+| **Languages** | `JavaScript` `TypeScript` `Python` `C++` `SQL` |
+| **Competitive Programming** | 500+ DSA problems solved |
+| **Problem Solving** | `Algorithm Design` `Data Structures` `Optimization` |
+
+</details>
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science**  
+**University Institute of Engineering and Technology, Kanpur** | 2021 – 2025
 
 ---
 
@@ -96,121 +236,31 @@ I'm a **backend-focused software engineer** passionate about designing **scalabl
 
 ---
 
-## 🏆 Key Expertise
+## 🏆 Certifications & Achievements
 
 <div align="center">
 
-### Backend Engineering
-```
-REST APIs        → JWT Auth         → Database Optimization
-Microservices    → Event-Driven     → System Design
-Scalability      → Performance      → Clean Code
-```
-
-### Core Competencies
-- ✅ **Scalable API Architecture** — Building production-ready REST APIs
-- ✅ **Microservices Design** — NestJS with inter-service communication
-- ✅ **Database Optimization** — Query optimization, indexing, normalization
-- ✅ **Authentication & Security** — JWT, OAuth, encryption best practices
-- ✅ **Caching Strategies** — Redis implementation, cache invalidation
-- ✅ **System Design** — High-level architecture planning
-- ✅ **DevOps Ready** — Docker, containerization best practices
+| Achievement | Status | Certificate |
+|-------------|--------|-----------|
+| **Mozark SDE1 Offer** | ✅ Appointed as SDE1 | [View](https://drive.google.com/file/d/1HDao9BQm9lkGx6-a0p0t7I_5UCEGgnYe/view) |
+| **SoftxAI Internship** | ✅ Successfully Completed | [View](https://drive.google.com/file/d/18zI4HmD-r5pcUcmwwdA-t_hePwCmnRlA/view?usp=sharing) |
+| **500+ DSA Problems** | ✅ Competitive Programming | [LeetCode](https://leetcode.com/u/anuragyadav06-02-2003/) |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. 🔐 **Centralized Auth & Reminder Microservices**
-**Production-Ready Microservices Architecture**
-
-**Tech Stack:** NestJS | Prisma | PostgreSQL | Redis | Docker | TCP
-
-**Features:**
-- 🔑 JWT-based centralized authentication service
-- ⏰ Reminder microservice with cron jobs
-- 📡 TCP-based inter-service communication
-- 🐳 Fully dockerized architecture
-- 📊 Scalable database design
-
-**Highlights:**
-- Implemented secure token refresh mechanism
-- Real-time reminder delivery system
-- Service-to-service communication protocol
-- Database migration & seeding
-
-🔗 [**View Repository**](https://github.com/Anuragyadav622003/centralized-auth-reminder-microservices)
-
----
-
-### 2. 🍔 **QuickBite – Food Delivery App**
-**Full-Stack MERN Application**
-
-**Tech Stack:** MongoDB | Express | React | Node.js
-
-**Features:**
-- 🔐 Secure user authentication & authorization
-- 🛒 Advanced cart & order management system
-- 📍 Location-based restaurant discovery
-- 💳 Payment integration ready
-- 📱 Responsive mobile-first design
-
-**Highlights:**
-- RESTful API design with proper error handling
-- Real-time order status tracking
-- User profile & order history
-
-🔗 [**View Repository**](https://github.com/anuragyadav/quickbite)
-
----
-
-### 3. 🏋️ **FitFolio – Health & Fitness Tracker**
-**Mobile-First Fitness Application**
-
-**Tech Stack:** React Native | Expo | Firebase
-
-**Features:**
-- 📈 Activity & goal tracking
-- 🔔 Push notifications
-- 👤 Personalized profile management
-- 📊 Progress analytics
-- 🎯 Custom workout programs
-
-**Highlights:**
-- Native mobile experience
-- Real-time data synchronization
-- Offline-first architecture
-
-🔗 [**View Repository**](https://github.com/Anuragyadav622003/FitFolio-Health-Fitness-Tracker-app-android)
-
----
-
-## 📜 Resume & Portfolio
+## 🧠 Competitive Programming Profiles
 
 <div align="center">
 
-📄 **[Download Resume](https://drive.google.com/file/d/1CHyKAO2krlX8djvZVuUUeZD1URYZQjhB/view?usp=sharing)**
-
-🌐 **[Visit Portfolio](https://anurag-yadav-portfolio.vercel.app/)**
-
-</div>
-
----
-
-## 🧠 Problem-Solving & Competitive Programming
-
-<div align="center">
-
-| Platform | Profile | Achievements |
+| Platform | Profile | Achievement |
 |----------|---------|--------------|
-| **LeetCode** | [anuragyadav622003](https://leetcode.com/u/anuragyadav622003/) | 500+ problems solved |
+| **LeetCode** | [anuragyadav06-02-2003](https://leetcode.com/u/anuragyadav06-02-2003/) | 500+ problems solved |
 | **Codeforces** | [anuragyadav622003](https://codeforces.com/profile/anuragyadav622003) | Competitive programming |
-| **CodeChef** | [anuragyadav622003](https://www.codechef.com/users/anuragyadav622) | DSA practice |
+| **CodeChef** | [anuragyadav622](https://www.codechef.com/users/anuragyadav622) | DSA practice |
 
-**Skills:** Algorithm Design | Data Structures | Optimization | Problem Solving
-
-</div>
+</details>
 
 ---
 
@@ -252,22 +302,39 @@ Scalability      → Performance      → Clean Code
 
 ---
 
+## 💬 Core Expertise & Key Strengths
+
+- ⚡ **Performance Optimization** — 40% API response time improvement through architectural decisions
+- 🔧 **Full-Stack Ownership** — End-to-end feature development from API to UI
+- 🏗️ **System Design** — Scalable microservices with distributed architecture
+- 🤖 **AI Integration** — Experience with AI agents and modern tooling (CopilotKit)
+- 📱 **Cross-Platform** — iOS, Android, Web development expertise
+- 🎯 **Startup Experience** — Thrived in fast-paced environments with rapid iteration
+- 📊 **Quality Code** — 85%+ test coverage, clean architecture practices
+
+---
+
 ## 🤝 Let's Connect!
 
 <div align="center">
 
-I'm always interested in discussing:
-- 💡 Backend architecture & system design
-- 🔧 Backend optimization techniques
-- 📚 Mentoring & knowledge sharing
-- 🤝 Collaboration on exciting projects
+I'm passionate about:
+- 🏗️ Building scalable backend systems
+- 🚀 Full-stack product development
+- 🤖 AI-powered applications
+- 💡 System design & architecture
+- 🧠 Mentoring & knowledge sharing
 
-### Reach Out To Me:
+### Reach Out:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anurag-yadav-3704b1239)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:anuragyadav622003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/Anuragyadav622003)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/anuragyadav06-02-2003/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6600?style=for-the-badge&logo=About.me)](https://anurag-yadav-portfolio.vercel.app/)
+
+📱 **Phone:** +91 91153 92172  
+📍 **Location:** Gurgaon, Haryana, India
 
 </div>
 
@@ -279,6 +346,8 @@ I'm always interested in discussing:
 
 ### Made with ❤️ by Anurag Yadav
 
-**Last Updated:** 2026 | Open to opportunities worldwide 🌍
+**SDE1 at Mozark | Building the Future of Test Automation**
+
+Last Updated: July 2026 | Open to opportunities worldwide 🌍
 
 </div>
