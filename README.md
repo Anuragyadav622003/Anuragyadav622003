@@ -1,196 +1,284 @@
 ![Banner](https://raw.githubusercontent.com/Anuragyadav622003/Anuragyadav622003/main/thumb.jpg)
 
-<h1 align="center">Hi 👋, I'm Anurag Yadav</h1>
-<h3 align="center">Backend Engineer | MERN Stack & React Native Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anuragyadav622003&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+# 👋 Hey, I'm Anurag Yadav
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Anuragyadav622003?style=social" />
-  <img src="https://img.shields.io/github/stars/Anuragyadav622003?style=social" />
-</p>
+### 🚀 Backend Engineer | MERN Stack | React Native Developer
 
----
+**Building scalable microservices, robust APIs, and full-stack applications**
 
-## 🚀 About Me
+[![Profile Views](https://komarev.com/ghpvc/?username=Anuragyadav622003&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Anuragyadav622003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/anurag-yadav-3704b1239)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:anuragyadav622003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white&style=flat)](https://anurag-yadav-portfolio.vercel.app/)
 
-I’m a **Backend-focused Software Engineer** experienced in building **scalable APIs, microservices, and full-stack applications**.
-
-- 🎓 **B.Tech CSE (2025)**
-- 💼 **1+ year experience**
-- 🔥 Strong in **Node.js, NestJS, Express**
-- 🗄️ Databases: **PostgreSQL, MongoDB**
-- 🧠 Solved **500+ DSA problems (C++)**
-- 🌱 Learning **Microservices, Redis, Docker**
-- 🎯 Actively seeking **Backend / Full-Stack Engineer roles**
-
-📄 **Resume:**  
-👉 [https://github.com/Anuragyadav622003/Anuragyadav622003/blob/main/AnuragYadav_Resume.pdf](https://drive.google.com/file/d/1CHyKAO2krlX8djvZVuUUeZD1URYZQjhB/view?usp=sharing)
+</div>
 
 ---
 
-## 🧩 Backend Engineering Focus
+## 🎯 About Me
 
-- Scalable REST API design
-- Microservices with NestJS
-- JWT & Refresh Token authentication
-- Prisma ORM & DB optimization
-- Redis caching & background jobs
-- Dockerized services
-- Clean architecture & system design
+I'm a **backend-focused software engineer** passionate about designing **scalable architectures**, building **high-performance APIs**, and mentoring developers. With **1+ years of hands-on experience**, I specialize in building production-ready applications using modern tech stacks.
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-C++, JavaScript, TypeScript, SQL
-
-**Backend:**  
-Node.js, Express.js, NestJS, REST APIs, JWT, Prisma, Microservices
-
-**Frontend:**  
-React.js, Next.js, React Native (Expo), Tailwind CSS
-
-**Databases:**  
-PostgreSQL, MongoDB, MySQL
-
-**DevOps & Tools:**  
-Docker, Redis, Git, GitHub, Postman, Jira
+- 🎓 **B.Tech CSE** — Graduating 2025
+- 💼 **1+ years** building backend systems and microservices
+- 🔥 **Expert** in Node.js, NestJS, Express.js
+- 🗄️ **Database Master** — PostgreSQL, MongoDB
+- 🧠 **DSA Champion** — 500+ problems solved (C++)
+- 🎯 **Actively seeking** Backend / Full-Stack roles
+- 📚 **Continuous learner** — Microservices, Redis, Docker, System Design
 
 ---
 
-## 📊 GitHub Stats (Verified & Active)
+## 💻 Tech Stack
 
+<details open>
+<summary><b>🔧 Languages & Core</b></summary>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Anuragyadav622003&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"
-    height="170"
-  />
-</p>
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | `JavaScript` `TypeScript` `C++` `SQL` |
+| **Runtime & Servers** | `Node.js` `Express.js` `NestJS` |
+| **Authentication** | `JWT` `OAuth 2.0` `Refresh Tokens` `bcrypt` |
+| **ORMs & Query Builders** | `Prisma` `TypeORM` `Sequelize` |
+| **Design Patterns** | `Clean Architecture` `MVC` `Microservices` |
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragyadav622003&layout=compact&theme=github_dark"
-    height="150"
-  />
-</p>
+</details>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Anuragyadav622003&theme=github-dark"
-    height="150"
-  />
-</p>
+<details open>
+<summary><b>🎨 Frontend Stack</b></summary>
+
+| Category | Technologies |
+|----------|--------------|
+| **Web Frameworks** | `React.js` `Next.js` |
+| **Mobile Development** | `React Native` `Expo` |
+| **Styling** | `Tailwind CSS` `CSS3` `Material-UI` |
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Caching</b></summary>
+
+| Category | Technologies |
+|----------|--------------|
+| **Relational** | `PostgreSQL` `MySQL` |
+| **NoSQL** | `MongoDB` |
+| **Caching & Queues** | `Redis` `Bull Queue` |
+
+</details>
+
+<details open>
+<summary><b>🛠️ DevOps & Tools</b></summary>
+
+| Category | Technologies |
+|----------|--------------|
+| **Containerization** | `Docker` `Docker Compose` |
+| **VCS & CI/CD** | `Git` `GitHub` `GitHub Actions` |
+| **API Testing** | `Postman` `Insomnia` |
+| **Project Management** | `Jira` `Trello` |
+
+</details>
 
 ---
 
-## 📌 GitHub Profile Summary (Recruiter Snapshot)
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anuragyadav622003&theme=dark" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anuragyadav622003&theme=dark" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anuragyadav622003&theme=dark" height="165"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuragyadav622003&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anuragyadav622003&theme=dark" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anuragyadav622003&theme=dark&utcOffset=5.5" height="165"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragyadav622003&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Anuragyadav622003&theme=github-dark&hide_border=true)
+
+</div>
 
 ---
 
+## 🏆 Key Expertise
 
-## 🏆 GitHub Achievements
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Anuragyadav622003&theme=flat&no-frame=true&margin-w=15"
-  />
-</p>
----
+### Backend Engineering
+```
+REST APIs        → JWT Auth         → Database Optimization
+Microservices    → Event-Driven     → System Design
+Scalability      → Performance      → Clean Code
+```
 
-## 📈 Contribution Activity Graph
+### Core Competencies
+- ✅ **Scalable API Architecture** — Building production-ready REST APIs
+- ✅ **Microservices Design** — NestJS with inter-service communication
+- ✅ **Database Optimization** — Query optimization, indexing, normalization
+- ✅ **Authentication & Security** — JWT, OAuth, encryption best practices
+- ✅ **Caching Strategies** — Redis implementation, cache invalidation
+- ✅ **System Design** — High-level architecture planning
+- ✅ **DevOps Ready** — Docker, containerization best practices
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuragyadav622003&theme=github-compact&hide_border=true"/>
-</p>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 Centralized Auth & Reminder Microservices
-**NestJS | Prisma | PostgreSQL | Redis | Docker**
+### 1. 🔐 **Centralized Auth & Reminder Microservices**
+**Production-Ready Microservices Architecture**
 
-- JWT-based centralized authentication
-- Reminder microservice with cron jobs
-- TCP-based inter-service communication
-- Dockerized microservices architecture
+**Tech Stack:** NestJS | Prisma | PostgreSQL | Redis | Docker | TCP
 
-🔗 https://github.com/Anuragyadav622003/centralized-auth-reminder-microservices
+**Features:**
+- 🔑 JWT-based centralized authentication service
+- ⏰ Reminder microservice with cron jobs
+- 📡 TCP-based inter-service communication
+- 🐳 Fully dockerized architecture
+- 📊 Scalable database design
 
----
+**Highlights:**
+- Implemented secure token refresh mechanism
+- Real-time reminder delivery system
+- Service-to-service communication protocol
+- Database migration & seeding
 
-### 🍔 QuickBite – Food Delivery App
-**MERN Stack**
-
-- Secure authentication
-- Cart & order management
-- Location-based restaurant flow
-
-🔗 https://github.com/anuragyadav/quickbite
-
----
-
-### 🏋️ FitFolio – Health & Fitness Tracker
-**React Native | Expo | Firebase**
-
-- Activity & goal tracking
-- Push notifications
-- Profile management
-
-🔗 https://github.com/Anuragyadav622003/FitFolio-Health-Fitness-Tracker-app-android
+🔗 [**View Repository**](https://github.com/Anuragyadav622003/centralized-auth-reminder-microservices)
 
 ---
 
-## 🧠 Problem Solving Profiles
+### 2. 🍔 **QuickBite – Food Delivery App**
+**Full-Stack MERN Application**
 
-- LeetCode: https://leetcode.com/u/anuragyadav622003/
-- Codeforces: https://codeforces.com/profile/anuragyadav622003
-- CodeChef: https://www.codechef.com/users/anuragyadav622
+**Tech Stack:** MongoDB | Express | React | Node.js
 
----
+**Features:**
+- 🔐 Secure user authentication & authorization
+- 🛒 Advanced cart & order management system
+- 📍 Location-based restaurant discovery
+- 💳 Payment integration ready
+- 📱 Responsive mobile-first design
 
-## 🌐 Connect With Me
+**Highlights:**
+- RESTful API design with proper error handling
+- Real-time order status tracking
+- User profile & order history
 
-<p align="center">
-  <a href="https://linkedin.com/in/anurag-yadav-3704b1239">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin"/>
-  </a>
-  <a href="mailto:anuragyadav622003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail"/>
-  </a>
-  <a href="https://anurag-yadav-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me"/>
-  </a>
-</p>
+🔗 [**View Repository**](https://github.com/anuragyadav/quickbite)
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+NestJS+%7C+Microservices;Building+Scalable+Systems+with+Node.js" />
-</p>
+### 3. 🏋️ **FitFolio – Health & Fitness Tracker**
+**Mobile-First Fitness Application**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anuragyadav622003/Anuragyadav622003/output/github-contribution-grid-snake.svg" />
-</p>
+**Tech Stack:** React Native | Expo | Firebase
 
-![GitHub Snake](https://raw.githubusercontent.com/Anuragyadav622003/Anuragyadav622003/output/github-contribution-grid-snake.svg)
-<p align="center">Made with ❤️ by Anurag Yadav</p>
+**Features:**
+- 📈 Activity & goal tracking
+- 🔔 Push notifications
+- 👤 Personalized profile management
+- 📊 Progress analytics
+- 🎯 Custom workout programs
+
+**Highlights:**
+- Native mobile experience
+- Real-time data synchronization
+- Offline-first architecture
+
+🔗 [**View Repository**](https://github.com/Anuragyadav622003/FitFolio-Health-Fitness-Tracker-app-android)
+
+---
+
+## 📜 Resume & Portfolio
+
+<div align="center">
+
+📄 **[Download Resume](https://drive.google.com/file/d/1CHyKAO2krlX8djvZVuUUeZD1URYZQjhB/view?usp=sharing)**
+
+🌐 **[Visit Portfolio](https://anurag-yadav-portfolio.vercel.app/)**
+
+</div>
+
+---
+
+## 🧠 Problem-Solving & Competitive Programming
+
+<div align="center">
+
+| Platform | Profile | Achievements |
+|----------|---------|--------------|
+| **LeetCode** | [anuragyadav622003](https://leetcode.com/u/anuragyadav622003/) | 500+ problems solved |
+| **Codeforces** | [anuragyadav622003](https://codeforces.com/profile/anuragyadav622003) | Competitive programming |
+| **CodeChef** | [anuragyadav622003](https://www.codechef.com/users/anuragyadav622) | DSA practice |
+
+**Skills:** Algorithm Design | Data Structures | Optimization | Problem Solving
+
+</div>
+
+---
+
+## 📈 GitHub Highlights
+
+<div align="center">
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anuragyadav622003&theme=dark)
+
+![Repository Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anuragyadav622003&theme=dark&height=165)
+
+![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anuragyadav622003&theme=dark&height=165)
+
+![Contribution Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anuragyadav622003&theme=dark&height=165)
+
+![Productivity Heatmap](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anuragyadav622003&theme=dark&utcOffset=5.5&height=165)
+
+</div>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Anuragyadav622003&theme=flat&no-frame=true&margin-w=15&row=2)
+
+</div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anuragyadav622003&theme=github-compact&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always interested in discussing:
+- 💡 Backend architecture & system design
+- 🔧 Backend optimization techniques
+- 📚 Mentoring & knowledge sharing
+- 🤝 Collaboration on exciting projects
+
+### Reach Out To Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anurag-yadav-3704b1239)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:anuragyadav622003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/Anuragyadav622003)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6600?style=for-the-badge&logo=About.me)](https://anurag-yadav-portfolio.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake Animation](https://raw.githubusercontent.com/Anuragyadav622003/Anuragyadav622003/output/github-contribution-grid-snake.svg)
+
+### Made with ❤️ by Anurag Yadav
+
+**Last Updated:** 2026 | Open to opportunities worldwide 🌍
+
+</div>
